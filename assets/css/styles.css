@@ -1,0 +1,58 @@
+#navcol-1 {
+  text-transform: uppercase;
+}
+
+.card-text {
+  margin-top: -30px;
+}
+
+.top h1 {
+  color: black;
+  font-family: 'Montserrat';
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 50px;
+  margin-left: 10px;
+  padding: 15px;
+}
+
+.navbar-light .navbar-toggler {
+}
+
+:root {
+}
+
+body {
+  padding: 250px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+
+@media (max-width: 1200px) {
+  body {
+    padding: 0px;
+  }
+}
+
+.portcards {
+  padding: 20px;
+}
+
+#quote {
+}
+
+@media (max-width: 767px) {
+  .navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
+    color: rgba(50,49,49,0.7);
+    background-color: rgb(235,235,242);
+    width: 200px;
+  }
+}
+
+.navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
+  color: rgba(50,49,49,0.7);
+}
+
+.navbar-light .navbar-toggler-icon {
+}
+
